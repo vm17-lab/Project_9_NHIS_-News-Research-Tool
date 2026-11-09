@@ -1,0 +1,7 @@
+langchain-core
+langchain-groq
+streamlit
+newsapi-python
+python-dotenv
+requests
+
