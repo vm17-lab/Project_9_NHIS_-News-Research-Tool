@@ -116,7 +116,7 @@ streamlit run app.py
 
 Open **http://localhost:8501**, create an account and start searching.
 
-> 💡 Streamlit reads its theme from `.streamlit/config.toml`. Place the provided `config.toml` inside a `.streamlit/` folder to apply the custom look.
+> 💡 Streamlit reads its theme from `config.toml`. the provided `config.toml` to apply the custom look.
 
 ---
 
